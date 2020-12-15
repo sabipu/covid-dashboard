@@ -142,6 +142,7 @@ img {
 }
 
 .mainNav a {
+  text-decoration: none;
   display: block;
   color: rgba(255,255,255,0.9);
   position: relative;
@@ -312,7 +313,7 @@ img {
 
 .countryList {
   list-style: none;
-  padding: 15px 20px 25px 10px;
+  padding: 15px 25px 25px 10px;
   margin: 0;
   font-size: 14px;
 }
